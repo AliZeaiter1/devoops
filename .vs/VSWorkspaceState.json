@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication1"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\WebApplication1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
